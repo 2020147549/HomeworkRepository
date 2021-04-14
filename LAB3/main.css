@@ -1,0 +1,49 @@
+div{width : 1020px;
+    border : 3px;
+    background-color : antiquewhite;
+    position:relative;
+    left : 50%;
+    transform : translateX(-50%);
+    text-align : center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+h1{
+  text-align : left;
+}
+div.imi{
+  height : 1530px;
+  right : 10%
+  
+}
+img:hover{
+    transition-property: width;
+    transition-duration: 2s;
+    width : 1020px;
+}
+
+.flexbox{
+    Column-count:3;
+    column-gap: 40px;
+    column-width: 400px;
+    column-rule-style: solid;
+    column-rule-width: 4px;
+    font-size: 25px;
+}
+
+.animation{
+        animation-timing-function: linear;
+        animation-duration: 2s;
+        animation-name : sliding;
+}
+
+@keyframes sliding {
+    from {
+      margin-left: 100%;
+      width: 200%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
