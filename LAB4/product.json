@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "white shirts",
+        "price" : 420000,
+        "type" : "top",
+        "image" : "woo1.jpg"
+    },
+    {
+        "name" : "black pants",
+        "price" : 450000,
+        "type" : "bottom",
+        "image" : "woo2.jpg"
+    },
+    {
+        "name" : "white shoes",
+        "price" : 550000,
+        "type" : "shoes",
+        "image" : "WOO3.jpg"
+    }
+]
