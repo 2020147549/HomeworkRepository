@@ -1,0 +1,98 @@
+[
+    {
+        "name" : "white shirts",
+        "price" : 420000,
+        "type" : "tops",
+        "image" : "woo1.jpg"
+    },
+    {
+        "name" : "black pants",
+        "price" : 450000,
+        "type" : "bottoms",
+        "image" : "woo2.jpg"
+    },
+    {
+        "name" : "white shoes",
+        "price" : 550000,
+        "type" : "shoes",
+        "image" : "WOO3.jpg"
+    },
+    {   "name" : "mint jeans",
+        "price" : 480000,
+        "type" : "bottoms",
+        "image" : "mintjean.jpg"
+    },
+    {   "name" : "check jeans",
+        "price" : 550000,
+        "type" : "bottoms",
+        "image" : "checkjean.jpg"
+
+    },
+    {   "name" : "flower shirts",
+        "price" : 280000,
+        "type" : "tops",
+        "image" : "flower.jpg"
+    },
+    {   "name" : "pink shirts",
+        "price" : 280000,
+        "type" : "tops",
+        "image" : "pink.jpg"
+    },
+    {
+        "name" : "kaki shoes",
+        "price" : 580000,
+        "type" : "shoes",
+        "image" : "kaki.jpg"
+    },
+    {
+        "name" : "black shoes",
+        "price" : 550000,
+        "type" : "shoes",
+        "image" : "blackshoes.jpg"
+    },
+    {   "name" : "blue shirts",
+        "price" : 580000,
+        "type" : "tops",
+        "image" : "blueshirts.jpg"
+    },
+    {   "name" : "stripe shirts",
+        "price" : 450000,
+        "type" : "tops",
+        "image" : "stripe.jpg"
+    },
+    {   "name" : "black neat",
+        "price" : 520000,
+        "type" : "tops",
+        "image" : "neat.jpg"
+    },
+    {   "name" : "beize jeans",
+        "price" : 550000,
+        "type" : "bottoms",
+        "image" : "baesi.jpg"
+
+    },
+    {   "name" : "black shorts",
+        "price" : 480000,
+        "type" : "bottoms",
+        "image" : "blackshorts.jpg"
+
+    },
+    {   "name" : "cargo pants",
+        "price" : 480000,
+        "type" : "bottoms",
+        "image" : "cargopants.jpg"
+
+    },
+    {
+        "name" : "ivory shoes",
+        "price" : 550000,
+        "type" : "shoes",
+        "image" : "ivory.jpg"
+    },
+    {
+        "name" : "grey shoes",
+        "price" : 580000,
+        "type" : "shoes",
+        "image" : "grey.jpg"
+    }
+]
