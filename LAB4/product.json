@@ -1,0 +1,53 @@
+[
+    {
+        "name" : "white shirts",
+        "price" : 420000,
+        "type" : "tops",
+        "image" : "woo1.jpg"
+    },
+    {
+        "name" : "black pants",
+        "price" : 450000,
+        "type" : "bottoms",
+        "image" : "woo2.jpg"
+    },
+    {
+        "name" : "white shoes",
+        "price" : 550000,
+        "type" : "shoes",
+        "image" : "WOO3.jpg"
+    },
+    {   "name" : "mint jeans",
+        "price" : 480000,
+        "type" : "bottoms",
+        "image" : "mintjean.jpg"
+    },
+    {   "name" : "check jeans",
+        "price" : 550000,
+        "type" : "bottoms",
+        "image" : "checkjean.jpg"
+
+    },
+    {   "name" : "flower shirts",
+        "price" : 280000,
+        "type" : "tops",
+        "image" : "flower.jpg"
+    },
+    {   "name" : "pink shirts",
+        "price" : 280000,
+        "type" : "tops",
+        "image" : "pink.jpg"
+    },
+    {
+        "name" : "kaki shoes",
+        "price" : 580000,
+        "type" : "shoes",
+        "image" : "kaki.jpg"
+    },
+    {
+        "name" : "black shoes",
+        "price" : 550000,
+        "type" : "shoes",
+        "image" : "blackshoes.jpg"
+    }
+]
