@@ -1,3 +1,5 @@
+index = 8;
+
 fetch('product.json').then(function(response) {
     return response.json();
   }).then(function(json) {  
@@ -47,15 +49,6 @@ function visual(items){
           for(let i = 0; i < 8; i ++){
             show(imgArray[i]);
           }
-
-            document.addEventListener('scroll', () => {
-              if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
-                for(let i = 8; i < imgArray.length; i ++){
-                  show(imgArray[i]);
-                }
-                }
-              }
-            )
 
 
           }
@@ -162,6 +155,33 @@ function visual(items){
         document.getElementById(e.target.parentNode.id).appendChild(section);
 
       }
+
+
+      $(document).ready(function() {
+
+        $(window).scroll(function () {
+    
+          var curHeight = $(window).scrollTop();
+    
+          var docHeight = $(document).height();
+    
+          if (curHeight > docHeight - 800) {
+            if(index >= imgArray.length){
+              return;
+            }
+    
+            show(index);
+            index ++;
+            if(index === imgArray.length){
+              return;
+            }
+    
+          }
+    
+        });
+    
+      });
+  
 }
 
 
