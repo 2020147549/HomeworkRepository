@@ -1,0 +1,61 @@
+
+html {
+    background-color:wheat;
+    font-size: 10px;
+  }
+  
+  body {
+    width: 1020px;
+    margin: 0 auto;
+  }
+  
+  h1, h2 {
+    margin: 0;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 50pt;
+  }
+
+  h2{
+    font-size: 30px
+  }
+
+  main{
+    overflow : scroll;
+  }
+
+
+  p, label, input, select, button, li {
+    font-size: 20px;
+  }
+  
+  li {
+    line-height: 2px;
+  }
+  
+  header, aside, main{
+    padding: 25px;
+  }
+  
+  header {
+    border: 5px solid black;
+  }
+  
+  aside {
+    border-right: 5px solid black;
+  }
+  
+  body > div {
+    border: 5px solid black;
+    display: flex;
+  }
+
+  label, select, input {
+    display: block;
+  }
+  
+  select, input, button {
+    width: 80%;
+  }
